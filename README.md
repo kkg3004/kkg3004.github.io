@@ -1,6 +1,3 @@
-# kkg3004.github.io
-this is where i make my projects :)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
